@@ -1,0 +1,26 @@
+Tip;ID;Ime;Cena;Drzava;Naslov;Rok trajanja;Tip skladiscenja;Na Recept;Cas odmerjenja;Kolicina ampul;st Tablet;na aplikacijo;Kolicina mazila;PovAplikacije;Odmerek;Konecentracija;Topilo;Kolicina;Odmerek;Za aplikacijo;V pakiranju;Ime;Aktivna snov;enota;Kolicina
+Artikel;15;Rokavice;13,22;Slovenija;Gosposvedska 13;2033,12,05;Polica;;;;;;;;;;;;;;;;;;
+Artikel;16;Termometer;14,99;Slovenija;Gosposvedska 13;2023,12,05;Polica;;;;;;;;;;;;;;;;;;
+Artikel;17;Palce za ušesa;5,99;Slovenija;Gosposvedska 13;2025,12,05;Polica;;;;;;;;;;;;;;;;;;
+Artikel;18;Kondom;10,5;Slovenija;Gosposvedska 13;2033,12,05;Polica;;;;;;;;;;;;;;;;;;
+Ampula;19;Tonimer;3,5;Slovenija;Gosposvedska 13;2025,12,05;Hladilnik;TRUE;2025,12,05;10;;;;;;;;;;;;Dekspantenol;snov ;ml;13,22
+Ampula;20;Dynergie;21;Slovenija;Gosposvedska 13;2025,12,05;Hladilnik;TRUE;2025,12,05;11;;;;;;;;;;;;Encim;snov ;g;14,99
+Ampula;21;Scandonest;16;Slovenija;Gosposvedska 13;2024,12,05;Hladilnik;TRUE;2025,12,05;6;;;;;;;;;;;;Paracetomol;snov ;mg;5,99
+Ampula;22;Virazole;22;Slovenija;Gosposvedska 13;2024,12,05;Hladilnik;FALSE;2025,12,05;7;;;;;;;;;;;;Dekspantenol;snov ;mg;10,5
+Tableta;23;Lekadol;12;Slovenija;Gosposvedska 13;2030,12,05;Polica;TRUE;2025,12,05;;24;2;;;;;;;;;;Encim;snov ;g;3,5
+Tableta;24;Metamizol;6,5;Slovenija;Gosposvedska 13;2030,12,05;Polica;TRUE;2025,12,05;;24;2;;;;;;;;;;Dekspantenol;snov ;mg;21
+Tableta;25;Aspirin;9,99;Slovenija;Gosposvedska 13;2030,12,05;Polica;TRUE;2025,12,05;;24;2;;;;;;;;;;Encim;snov ;ml;16
+Tableta;26;Šumeča tableta;14,99;Slovenija;Gosposvedska 13;2025,12,05;Polica;TRUE;2025,12,05;;24;1;;;;;;;;;;Paracetomol;snov ;g;22
+Mazilo;27;Krema za suho kožo;10,5;Slovenija;Gosposvedska 13;2030,12,05;Polica;TRUE;2025,12,05;;;;10;telo;3;;;;;;;Dekspantenol;snov ;ml;12
+Mazilo;28;Krema proti mozoljem;12,5;Slovenija;Gosposvedska 13;2030,12,05;Polica;TRUE;2025,12,05;;;;5;obraz;1;;;;;;;Paracetomol;snov ;mg;6,5
+Mazilo;29;Krema za stopala;12,5;Slovenija;Gosposvedska 13;2033,12,05;Polica;FALSE;2025,12,05;;;;12;telo;1;;;;;;;Paracetomol;snov ;g;9,99
+Mazilo;30;Krema za sklepe;7,99;Slovenija;Gosposvedska 13;2025,12,05;Polica;TRUE;2025,12,05;;;;16;roka;2;;;;;;;Encim;snov ;ml;14,99
+Raztopina;31;ActiMaris;12,5;Slovenija;Gosposvedska 13;2033,12,05;Hladilnik;TRUE;2025,12,05;;;;;;;0,8;natrijev_klorid;10;1;;;Encim;snov ;g;10,5
+Raztopina;32;Fiziološka raztopina;17,5;Slovenija;Gosposvedska 13;2033,12,05;Hladilnik;TRUE;2025,12,05;;;;;;;0,5;glukoza;15;1;;;Dekspantenol;snov ;mg;12,5
+Raztopina;33;Raztopina 3;11,99;Slovenija;Gosposvedska 13;2033,12,05;Hladilnik;TRUE;2025,12,05;;;;;;;0,3;sterofundin;18;1;;;Encim;snov ;g;12,5
+Raztopina;34;Srebrna voda;9,5;Slovenija;Gosposvedska 13;2033,12,05;Hladilnik;FALSE;2025,12,05;;;;;;;0,9;lonolyte;19;2;;;Paracetomol;snov ;mg;7,99
+Inhalator;35;Inhalator za Astmo;20,99;Slovenija;Gosposvedska 13;2025,12,05;Polica;TRUE;2025,12,05;;;;;;;;;;;2;20;Paracetomol;snov ;ml;12,5
+Inhalator;36;Inhalator z vitamini;13,5;Slovenija;Gosposvedska 13;2024,12,05;Polica;TRUE;2025,12,05;;;;;;;;;;;3;33;Dekspantenol;snov ;ml;17,5
+Inhalator;37;Inhalator za grlo;16,99;Slovenija;Gosposvedska 13;2024,12,05;Polica;TRUE;2025,12,05;;;;;;;;;;;2;22;Encim;snov ;g;11,99
+Inhalator;38;Inhalator za vnetje;17,99;Slovenija;Gosposvedska 13;2025,12,05;Polica;TRUE;2025,12,05;;;;;;;;;;;1;10;Paracetomol;snov ;mg;9,5
+0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25
