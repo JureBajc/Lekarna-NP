@@ -82,13 +82,6 @@ Program testira funkcionalnosti v `Main` metodi, vključno z:
 - filtriranjem po ceni, imenu in državi.
 
 ---
-
-## ⚠️ Opombe
-
-- `steviloPreostalihDoziranj()` se implementira različno glede na tip zdravila.
-- Manjka enotno testiranje (`xUnit`, `NUnit`), priporočeno za nadaljnji razvoj.
-- Razred `PO_Lekarna` ima vmesnik `ILekarna`, vendar nekatere metode še niso implementirane v njem.
-
 ---
 
 ## 📧 Avtor
