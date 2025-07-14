@@ -8,36 +8,34 @@ Lekarna_NP je objektno orientiran C# projekt, ki simulira osnovno delovanje leka
 
 ## 🏗️ Struktura projekta
 
+```
 Lekarna_NP/
 │
-├── Program.cs // Glavna zagonna točka programa
-├── PO_Artikel.cs // Osnovni razred za vse artikle
-├── PO_Zdravilo.cs // Abstrakten razred za zdravila
-├── SE_Mazilo.cs // Konkretni tipi zdravil (mazilo, tableta, ...)
+├── Program.cs                  // Glavna zagonna točka programa
+├── PO_Artikel.cs              // Osnovni razred za vse artikle
+├── PO_Zdravilo.cs             // Abstrakten razred za zdravila
+├── SE_Mazilo.cs               // Konkretni tipi zdravil (mazilo, tableta, ...)
 ├── SE_Tableta.cs
 ├── SE_Ampula.cs
 ├── SE_Raztopina.cs
 ├── SE_Inhilator.cs
 │
-├── PO_Racun.cs // Logika za izdajanje računov in izjeme
-├── PO_RezerviranArtikel.cs // Rezervacija artikla za osebo
-├── PO_Lekarna.cs // Glavna logika lekarne (dodajanje, rezervacije, zaloga)
+├── PO_Racun.cs                // Logika za izdajanje računov in izjeme
+├── PO_RezerviranArtikel.cs    // Rezervacija artikla za osebo
+├── PO_Lekarna.cs              // Glavna logika lekarne (dodajanje, rezervacije, zaloga)
 │
-├── Lekarna.cs // Lekarna z dogodki (obvestila strankam)
-├── ILekarna.cs // Vmesnik lekarne
+├── Lekarna.cs                 // Lekarna z dogodki (obvestila strankam)
+├── ILekarna.cs                // Vmesnik lekarne
 │
-├── Inventar.cs // Branje/sortiranje podatkov iz CSV
-├── Sestavine.cs // Sestavine zdravila
-├── Oseba.cs // Oseba (stranka)
-├── Zaposlen.cs // Zaposleni v lekarni
-├── Stranka.cs // Stranka, ki se lahko naroči na obvestila
+├── Inventar.cs                // Branje/sortiranje podatkov iz CSV
+├── Sestavine.cs               // Sestavine zdravila
+├── Oseba.cs                   // Oseba (stranka)
+├── Zaposlen.cs                // Zaposleni v lekarni
+├── Stranka.cs                 // Stranka, ki se lahko naroči na obvestila
 │
-├── Podatki.csv // Vhodna datoteka s podatki o zdravilih
-└── sortiranoV2.csv // Izhodna datoteka po sortiranju
-
-yaml
-Copy
-Edit
+├── Podatki.csv                // Vhodna datoteka s podatki o zdravilih
+└── sortiranoV2.csv            // Izhodna datoteka po sortiranju
+```
 
 ---
 
@@ -81,7 +79,6 @@ Program testira funkcionalnosti v `Main` metodi, vključno z:
 - rezervacijami in sprostitvami,
 - filtriranjem po ceni, imenu in državi.
 
----
 ---
 
 ## 📧 Avtor
